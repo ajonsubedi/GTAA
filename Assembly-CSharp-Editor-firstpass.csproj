@@ -51,8 +51,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Plugins\BitmapFontImporter\Editor\BFImporter 2.cs" />
      <Compile Include="Assets\Plugins\BitmapFontImporter\Editor\BFImporter.cs" />
+     <Compile Include="Assets\Plugins\BitmapFontImporter\Editor\BFMenuTool 2.cs" />
      <Compile Include="Assets\Plugins\BitmapFontImporter\Editor\BFMenuTool.cs" />
+     <Compile Include="Assets\Plugins\BitmapFontImporter\Editor\FntParse 2.cs" />
      <Compile Include="Assets\Plugins\BitmapFontImporter\Editor\FntParse.cs" />
  <Reference Include="UnityEngine.CoreModule">
  <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.CoreModule.dll</HintPath>
