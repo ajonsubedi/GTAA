@@ -8,7 +8,11 @@ Font:
   m_Name: font1
   serializedVersion: 5
   m_LineSpacing: 80
+<<<<<<< Updated upstream
   m_DefaultMaterial: {fileID: 21033269213092724}
+=======
+  m_DefaultMaterial: {fileID: 21196159704341034}
+>>>>>>> Stashed changes
   m_FontSize: 72
   m_Texture: {fileID: 0}
   m_AsciiStartOffset: 0
@@ -1230,7 +1234,11 @@ Font:
   m_FallbackFonts: []
   m_FontRenderingMode: 0
   m_UseLegacyBoundsCalculation: 0
+<<<<<<< Updated upstream
 --- !u!21 &21033269213092724
+=======
+--- !u!21 &21196159704341034
+>>>>>>> Stashed changes
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
